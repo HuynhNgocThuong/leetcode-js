@@ -11,5 +11,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "jest-cli": "^27.5.1"
+  }
 }
